@@ -42,6 +42,11 @@
             border-radius: 50%;
             object-fit: cover;
         }
+        h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
@@ -59,6 +64,9 @@
     <nav>
         <a href="#publications">Publications</a>
         <a href="#working-papers">Working Papers</a>
+        <a href="#education">Education</a>
+        <a href="#achievements">Achievements</a>
+        <a href="#experience">Work Experience</a>
         <a href="#contact">Contact</a>
     </nav>
 
@@ -77,6 +85,47 @@
         <ul>
             <li><a href="https://www.researchgate.net/publication/383619716_Heterogeneity_and_Non-Linearities_in_International_RD_Spillovers_Evidence_Using_Novel_Panel_Estimators" target="_blank">Heterogeneity and Non-Linearities in International R&D Spillovers: Evidence from OECD Countries</a>, September 2024</li>
             <li><a href="https://www.researchsquare.com/article/rs-3789990/v1" target="_blank">An Empirical Investigation of Wagner's Law for Twelve Indian States: A Pooled Mean Group Approach Using Linear and Non-Linear Specifications</a>, with Prakash Choudhary and Namah Singh, December 2023</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>MSc in Economics</strong>, University of Nottingham (2023 - 2024)</li>
+            <li><strong>BSc in Economics</strong>, Symbiosis School of Economics, India (2020 - 2023)</li>
+        </ul>
+    </section>
+
+    <section id="achievements">
+        <h2>Achievements</h2>
+        <ul>
+            <li><strong>Economist of the Year</strong>, Symbiosis School of Economics (March 2023 - April 2023)</li>
+            <li><strong>Best Student Researcher of the Year</strong>, Symbiosis School of Economics (April 2024)</li>
+            <li><strong>Multiple Publications</strong>, including in leading journals such as <em>Cogent Social Sciences</em> and <em>Science and Engineering Ethics</em></li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Work Experience</h2>
+        <ul>
+            <li><strong>Research Assistant</strong>, Integrated Research for Action & Development (IRADe), India (2024 - Present)
+                <ul>
+                    <li>Conducted data analysis and visualization using Stata and R.</li>
+                    <li>Assisted in preparing policy briefs on energy economics and development issues.</li>
+                </ul>
+            </li>
+            <li><strong>Research Assistant</strong>, University of Nottingham (2023 - 2024)
+                <ul>
+                    <li>Analyzed trade and growth data across 23 OECD countries.</li>
+                    <li>Developed econometric models using Stata and R to study R&D spillovers.</li>
+                </ul>
+            </li>
+            <li><strong>Teaching Assistant</strong>, Symbiosis School of Economics (2022 - 2023)
+                <ul>
+                    <li>Taught econometric modeling and statistical analysis techniques using Stata and EViews.</li>
+                    <li>Mentored students on research projects involving economic theory and data analysis.</li>
+                </ul>
+            </li>
         </ul>
     </section>
 
