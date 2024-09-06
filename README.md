@@ -56,7 +56,7 @@
 </head>
 <body>
     <header>
-        <img src="https://raw.githubusercontent.com/<ShreeshChary>/<ShreeshChary.github.io>/20240906_095925.jpg" alt="Shreesh Chary" class="profile-img">
+     <img src="https://raw.githubusercontent.com/ShreeshChary/ShreeshChary.github.io/main/20240906_095925.jpg" alt="Shreesh Chary" class="profile-img">
         <h1>Shreesh Chary</h1>
         <p>I am an aspiring economist with a strong interest in international trade, economic growth, and the role of R&D in shaping productivity. My skills include econometric modeling, data analysis, and visualization using Stata, R, and Eviews. Currently, my research focuses on the impact of international knowledge spillovers on productivity across OECD countries, exploring the effects of human capital, economic size, and import intensity. I’m passionate about using data-driven research to understand complex economic dynamics and inform policy.</p>
         <p>
