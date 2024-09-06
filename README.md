@@ -78,12 +78,11 @@
         </ul>
     </section>
 
-     <section id="experience">
-        <h2>Work Experience</h2>
-        <ul>
-            <li><strong>Research Assistant</strong>, International Institute of SDGs and Public Policy Research, India (May 2022 to September 2022)
-                <ul>
-    </section>
+    <section id="experience">
+    <h2>Work Experience</h2>
+    <p><strong>Research Assistant</strong>, International Institute of SDGs and Public Policy Research, India (May 2022 to September 2022)</p>
+</section>
+
 
     <section id="publications">
         <h2>Publications</h2>
