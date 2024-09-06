@@ -60,7 +60,7 @@
         <h1>Shreesh Chary</h1>
         <p>I am an aspiring economist with a strong interest in international trade, economic growth, and the role of R&D in shaping productivity. My skills include econometric modeling, data analysis, and visualization using Stata, R, and Eviews. Currently, my research focuses on the impact of international knowledge spillovers on productivity across OECD countries, exploring the effects of human capital, economic size, and import intensity. I’m passionate about using data-driven research to understand complex economic dynamics and inform policy.</p>
         <p>
-        <a href="https://raw.githubusercontent.com/ShreeshChary/ShreeshChary.github.io/main/CV.pdf" target="_blank">View My CV</a> |
+<a href="https://raw.githubusercontent.com/ShreeshChary/ShreeshChary.github.io/main/CV.pdf" target="_blank" rel="noopener noreferrer">CV</a> |
             <a href="https://scholar.google.com/citations?user=zV1w51QAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |
             <a href="https://www.linkedin.com/in/shreesh-chary-2765391b3/" target="_blank">LinkedIn</a>
         </p>
