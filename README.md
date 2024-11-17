@@ -80,6 +80,7 @@
 
     <section id="experience">
     <h2>Work Experience</h2>
+    <p><strong>Research Associate</strong>, DAI Research and Advisory Services, India (October 2024-Current)</p>
     <p><strong>Research Assistant</strong>, International Institute of SDGs and Public Policy Research, India (May 2022 to September 2022)</p>
 </section>
 
