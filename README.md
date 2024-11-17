@@ -106,7 +106,7 @@
     <section id="achievements">
         <h2>Achievements</h2>
         <ul>
-            <li><strong>Economist of the Year</strong>, Symbiosis School of Economics (March 2023 - April 2023)</li>
+            <li><strong>Economist of the Year (Finalist)</strong>, Symbiosis School of Economics (March 2023 - April 2023)</li>
             <li><strong>Best Student Researcher of the Year</strong>, Symbiosis School of Economics (April 2024)</li>
         </ul>
     </section>
