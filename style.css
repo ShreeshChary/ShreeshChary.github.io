@@ -180,8 +180,12 @@ footer {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 14px;
   margin-top: 14px;
+}
+
+.gallery figure {
+  margin: 0;
 }
 
 .gallery img {
@@ -190,6 +194,13 @@ footer {
   max-width: 100%;
   border-radius: 6px;
   display: block;
+}
+
+.gallery figcaption {
+  margin-top: 6px;
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  max-width: 100%;
 }
 
 @media (max-width: 600px) {
